@@ -10,4 +10,4 @@ This repository is my documenting repository for learning DevOps. I started this
 
 ## Progress
 
-- [✔️] ♾️ 1 > [Introduction](Days/day01.md)
+- [✔️] ♾️ 1 > [Introduction](Days/Day01.md)
