@@ -31,8 +31,8 @@
 
 ## Resources
 In Hindi
--[What are the Pre-requisite for Devops](https://www.youtube.com/watch?v=eX3ZimWWHh4)
--[What is DevOps in Hindi](https://www.youtube.com/watch?v=7Imi2mVkpAg)
+- [What are the Pre-requisite for Devops](https://www.youtube.com/watch?v=eX3ZimWWHh4)
+- [What is DevOps in Hindi](https://www.youtube.com/watch?v=7Imi2mVkpAg)
 
 In English
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
