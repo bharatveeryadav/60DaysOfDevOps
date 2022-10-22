@@ -11,3 +11,4 @@ This repository is my documenting repository for learning DevOps. I started this
 ## Progress
 
 - [✔️] ♾️ 1 > [Introduction](Days/Day01.md)
+- [✔️] ♾️ 2 > [Introduction](Days/Day02.md)
