@@ -17,3 +17,5 @@ This repository is my documenting repository for learning DevOps. I started this
 - [✔️] ♾️ 5 --> [Everything about Linux from Scratch](Days/Day06.md)
 - [✔️] ♾️ 6 --> [Everything about Linux from Scratch](Days/Day07.md)
 
+
+### Knowing Linux Basics
