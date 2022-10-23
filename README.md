@@ -12,10 +12,11 @@ This repository is my documenting repository for learning DevOps. I started this
 
 - [✔️] ♾️ 1 --> [Introduction](Days/Day01.md)
 - [✔️] ♾️ 2 --> [Basics of AWS Cloud required for Devops](Days/Day02.md)
+
+
+### Linux from Scratch
+
 - [✔️] ♾️ 3 --> [Everything about Linux from Scratch](Days/Day04.md)
 - [✔️] ♾️ 4 --> [Everything about Linux from Scratch](Days/Day05.md)
 - [✔️] ♾️ 5 --> [Everything about Linux from Scratch](Days/Day06.md)
 - [✔️] ♾️ 6 --> [Everything about Linux from Scratch](Days/Day07.md)
-
-
-### Knowing Linux Basics
