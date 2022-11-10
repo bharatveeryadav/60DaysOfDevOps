@@ -53,7 +53,7 @@ Things are moving fast here and we have our Application that we are continuously
 
 But now we need to be sure that our end users are getting the experience they require. Here we need to make sure that our Application Performance is continuously being monitored, this phase is going to allow your developers to make better decisions about enhancements to the application in future releases to better serve the end users.
 
-This section is also where we are going to capture that feedback wheel about the features that have been implemented and how the end users would like to make these better for them.
+
 
 
 
