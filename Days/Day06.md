@@ -1,1 +1,2 @@
 
+- [Everything about Linux from Scratch Part-3 Hindi/urdu | DevOps Tutorial for Beginners in Hindi]([https://www.youtube.com/watch?v=6OfP7lf9Hjw&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=5](https://www.youtube.com/watch?v=5-Dspz2_aHQ&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=6))
