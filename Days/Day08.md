@@ -1,1 +1,1 @@
-
+- [Everything about Linux from Scratch Part-5 hindi/Urdu | Devops tutorial for beginners in hindi](https://www.youtube.com/watch?v=RLWp702zng8&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=8)
