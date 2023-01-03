@@ -38,3 +38,6 @@ https://www.networkworld.com/article/2886672/how-etsy-makes-devops-work.html How
 https://www.youtube.com/watch?v=gm18-gcgXRY Adopting DevOps @ Scale Lessons learned at Hertz, Kaiser Permanente and lBM
 https://www.usenix.org/conference/lisa16/technical-sessions/presentation/isla Interplanetary DevOps at NASA JPL
 https://enterprisersproject.com/article/2017/1/target-cio-explains-how-devops-took-root-inside-retail-giant Target CIO explains how DevOps took root inside the retail giant
+
+
+Day-07
